@@ -12,5 +12,5 @@ void main()
 		x = (t + a / t) / 2;
 	}
 	if (a>=0) { cout << x << endl; goto ttt; }
-	else { cout << "²»´æÔÚ"; }//¶Ô a < 0 ¿¼ÂÇ
+	else { cout << "ä¸å­˜åœ¨"; }
 }*/
