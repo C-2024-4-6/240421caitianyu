@@ -1,4 +1,4 @@
-#include"mytriangle.h"
+#include"3.3 mytriangle.h"
 bool is_valid(double side1, double side2, double side3)
 {
 	return(side1 + side2 > side3 && side1 + side3 > side2 && side3 + side2 > side1);
