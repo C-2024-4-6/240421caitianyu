@@ -1,4 +1,4 @@
-#include"mytriangle.h"
+#include"3.3 mytriangle.h"
 int main()
 {
 	double a, d, n;
